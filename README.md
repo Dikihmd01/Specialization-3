@@ -1,1 +1,1 @@
-# Learning documentacy
+# Learning documentation
